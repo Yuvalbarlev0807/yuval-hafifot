@@ -1,0 +1,76 @@
+{
+  "id": 555,
+  "title": "Smartphone Galaxy Ultra 25",
+  "description": "Latest generation smartphone with advanced AI camera and ultra-fast charging.",
+  "price": 1299.99,
+  "discountPercentage": 10.5,
+  "rating": 4.8,
+  "stock": 42,
+  "brand": "Samsung",
+  "category": "smartphones",
+  "inStock": true,
+  "releaseDate": "2025-02-18",
+
+  "specifications": {
+    "screenSize": "6.9 inches",
+    "resolution": "3200x1440",
+    "cpu": "Snapdragon 8 Gen 3",
+    "ram": "12 GB",
+    "storage": "512 GB",
+    "battery": {
+      "capacity": "5000 mAh",
+      "charging": "120W Fast Charging",
+      "wirelessCharging": true
+    }
+  },
+
+  "variants": [
+    {
+      "color": "Phantom Black",
+      "storage": "512 GB",
+      "price": 1299.99,
+      "sku": "SGU25-BLK-512"
+    },
+    {
+      "color": "Silver Mist",
+      "storage": "256 GB",
+      "price": 1199.99,
+      "sku": "SGU25-SLV-256"
+    },
+    {
+      "color": "Burgundy Red",
+      "storage": "512 GB",
+      "price": 1299.99,
+      "sku": "SGU25-RED-512"
+    }
+  ],
+
+  "features": [
+    "AI-Powered Camera",
+    "120Hz AMOLED Display",
+    "Water Resistant (IP68)",
+    "Dual SIM Support"
+  ],
+
+  "seller": {
+    "id": 9001,
+    "name": "TechWorld Electronics",
+    "rating": 4.9,
+    "verified": true,
+    "location": {
+      "country": "Germany",
+      "city": "Berlin",
+      "zipCode": "10115"
+    }
+  },
+
+  "warranty": {
+    "period": "24 months",
+    "provider": "Samsung Care",
+    "includesAccidentalDamage": true
+  },
+
+  "relatedProducts": [502, 503, 504, 505],
+
+  "tags": ["electronics", "smartphones", "android", "premium"]
+}
